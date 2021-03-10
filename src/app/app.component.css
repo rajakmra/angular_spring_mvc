@@ -29,3 +29,18 @@
     padding: 170px;
     vertical-align: middle;
   }
+
+  .mynewclass
+  {
+    width: 100px;
+	height: 100px;
+	background-color: rgba(179, 255, 0, 0.164);
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;      
+  }
